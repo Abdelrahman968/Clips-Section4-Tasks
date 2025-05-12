@@ -17,9 +17,9 @@ Task 1 defines a `person` template with `name`, `age`, and `hair-color` attribut
 
 ### Facts
 Three sample people:
-- John Doe (age 22, blonde hair).
-- Jane Smith (age 24, red hair).
-- Alex Black (age 21, black hair).
+- Abdelrahman Ayman (age 22, blonde hair).
+- Ahmed Elsayed (age 24, red hair).
+- Elsayed Ahmed (age 21, black hair).
 
 ### Rule
 - **check_color**: Matches people with hair color not black or brown, prints the color.
@@ -45,7 +45,7 @@ Task 2 defines a `person` template with `name` and `age` attributes. A rule (`ch
 
 ### Facts
 Three sample people:
-- Abdelrahmna Ayman (age 22).
+- Abdelrahman Ayman (age 22).
 - Ahmed Elsayed (age 24).
 - Tark Ebrahim (age 21).
 
@@ -57,7 +57,7 @@ Running the rule outputs:
 ```
 (Tark Ebrahim) is between 20 and 25 years old.
 (Ahmed Elsayed) is between 20 and 25 years old.
-(Abdelrahmna Ayman) is between 20 and 25 years old.
+(Abdelrahman Ayman) is between 20 and 25 years old.
 ```
 
 ## Running the Code
